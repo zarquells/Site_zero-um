@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body #contaneir {
+    margin: auto;
+    width: 400px;
+    height: 800px;
+    background: #f9f8c6;
+}
+#img_fundo {
+    width: 400px;
+    height: 360px;
+    margin-bottom: -340px;
+} 
+#contaneir {
+    margin: auto;
+    width: 400px;
+    height: 800px;
+    background-color: rgb(255, 255, 255);
+}
+#buscar {
+    width: 326px;
+    height: 50px;
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    padding-left: 25px;
+    margin-left: 30px;
+    margin-top: 35px;
+    outline: none;
+    border: none;
+}
+#img_busca  {
+    width: 25px;
+    height: 25px;
+    margin-left: -50px;
+    margin-bottom: -10px;
+    filter: opacity(0.3);
+}
+#titulo {
+    width: 340px;
+    color: #FFFFFF;
+    font-family: 'roboto', 'sans-serif';
+    font-size: 36px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 130px;
+    margin-left: 30px;
+}
+#img_florestas {
+    width: 140px;
+    height: 140px;
+    margin-top: 60px;
+    margin-left: 20px;
+    margin-bottom: 1px;
+    border-radius:5px 5px  0 0;
+}
+#folha {
+    width: 24px;
+    height: 24px;
+    margin-left: 125px;
+    margin-top: -35px;
+    margin-bottom: 40px;
+    filter: opacity(0.3);
+}
+#p_florestas {
+    color: black;
+    text-transform: capitalize;
+    width: 125px;
+    height: 30px;
+    background-color: #fff;
+    border-radius:  0 0 5px 5px;
+    font-family: 'roboto','sans-serif';
+    padding-left: 15px;
+    padding-top: 15px;
+    margin-left: 20px;
+    margin-top: -8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2),
+                0 4px 8px rgba(0, 0, 0, 0.2);
+}
+#img_praias {
+    width: 140px;
+    height: 140px;
+    margin-top: -300px;
+    margin-left: 180px;
+    margin-bottom: 88px;
+    border-radius:  5px 5px 0 0;
+}
+#p_praias {
+    color: black;
+    text-transform: capitalize;
+    width: 125px;
+    height: 30px;
+    background-color: #fff;
+    border-radius: 0 0 5px 5px;
+    font-family: 'roboto', 'sans-serif';
+    padding-top: 15px;
+    margin-top: -96px;
+    margin-left: 180px;
+    padding-left: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2),
+                0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+#barco {
+    width: 24px;
+    height: 24px;
+    margin-left: 283px;
+    margin-top: -35px;
+    margin-bottom: 40px;
+    filter: opacity(0.3);
+}
+#p_montanhas {
+    color: black;
+    text-transform: capitalize;
+    width: 125px;
+    height: 30px;
+    background-color: #fff;
+    border-radius: 0 0 5px 5px;
+    font-family: 'roboto', 'sans-serif';
+    margin-left: 340px;
+    padding-left: 15px;
+    padding-top: 15px;
+    margin-top: -77px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2),
+                0 4px 8px rgba(0, 0, 0, 0.2); 
+}
+#img_montanhas{
+    width: 140px;
+    height: 140px;
+    margin-top: -300px;
+    margin-left: 340px;
+    margin-bottom: 56px;
+    border-radius:  5px 5px 0 0;
+}
+#footer {
+    width: 400px;
+    height: 170px;
+    background-color: #222;
+    margin-top: 60px;
+} 
+#p_mais{
+    font-size: 16px;
+    font-family: 'roboto', 'sans-serif';
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ffffff;
+    padding-top: 25px;
+    padding-left: 30px;
+}
+#ret_um {
+    width: 2px;
+    height: 8px;
+    background-color: #404040;
+    margin-top: 25px;
+    margin-left: 40px;
+}
+#p_empresas {
+    font-family: 'roboto', 'sans-serif';
+    font-size: 12px;
+    font-weight: normal;
+    color: #cfcfcf;
+    margin-top: -15px;
+    margin-left: 50px;
+}
+#ret_doi {
+    position: relative;
+    width: 2px;
+    height: 8px;
+    background-color: #404040;
+    margin-top: 24px;
+    bottom: 35px;
+    left: 219px;
+}
+#p_perguntas {
+    position: relative;
+    font-family: 'roboto', 'sans-serif';
+    font-size: 12px;
+    font-weight: normal;
+    color: #cfcfcf;
+    margin-left: 230px;
+    bottom: 50px;
+}
+#ret_tre {
+    position: relative;
+    width: 2px;
+    height: 8px;
+    background-color: #404040;
+    top: -34px;
+    right: -219px;
+}
+#ret_qua{
+    position: relative;
+    width: 2px;
+    height: 8px;
+    background-color: #404040;
+    top: -65px;
+    right: -40px;
+}
+#p_vagas {
+    position: relative;
+    font-family: 'roboto', 'sans-serif';
+    font-size: 12px;
+    font-weight: normal;
+    color: #cfcfcf;
+    margin-left: 230px;
+    bottom: 50px;
+}
+#p_meio {
+    font-family: 'roboto', 'sans-serif';
+    font-size: 12px;
+    font-weight: normal;
+    color: #cfcfcf;
+    margin-top: -80px;
+    margin-left: 50px;
+
+}
